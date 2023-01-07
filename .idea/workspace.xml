@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="41ce2a22-41eb-49ac-a116-07792de0cc3a" name="Changes" comment="vprofileapp services">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vprodbdep.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/vprodbdep.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
